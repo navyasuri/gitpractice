@@ -7,3 +7,6 @@ The article focuses on understanding how the role of a Software Engineer has evo
 
 ### Thoughts
 Most of the content was quite obvious but having the statistics available was a great insight into how the job market is doing. In short, we chose the right major and the class to take :)
+
+> ### Kertu Koss comments 
+> One comment I found relevant was how the authors described how the purpose of software engineering might start shifting from creation to maintenance. In a way they believe that Software Engineering will continue to be a popular degree and career choice, but its requirements will problalby get rather complex over time. 
